@@ -5,3 +5,4 @@ Steps
 4 - ln ~/.dots/git/gitconfig ~/.gitconfig
 5 - ln ~/.dots/bach/bash_profile ~/.bash_profile
 6 - brew install bash-completion
+7 - brew install vim
