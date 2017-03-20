@@ -3,6 +3,6 @@ Steps
 - ln -s ~/Development/dots ~/.dots
 - ln ~/.dots/git/gitignore ~/.gitignore
 - ln ~/.dots/git/gitconfig ~/.gitconfig
-- ln ~/.dots/bach/bash_profile ~/.bash_profile
+- ln ~/.dots/bash/bash_profile ~/.bash_profile
 - brew install bash-completion
 - brew install vim
